@@ -6,9 +6,10 @@ Personal Config files for my RailCore II 300 3D Printers.
 ## Roosevelt (300 ZL)
 Purchased originally from a Printed Solid as a kit.
 
-|     |     |
+|Type|Part/Vendor|
 |-----|-----|
 |**Controller**|Duet36HC|
+|**SBC**|Raspbery Pi 4b|
 |**Firmware**|RRF3|
 |**Idler Mounts**|ALU Halo for Magnums (713 Maker))|
 |**Idler Pulleys**|ALU Magnum Pulleys (MRW)|
@@ -38,9 +39,10 @@ Purchased originally from a Printed Solid as a kit.
 ## Rosie (300 ZLT)
 Purchased from a private party, who purchased it as a kit from Filastruder.
 
-|     |     |
+|Type|Part/Vendor|
 |-----|-----|
 |**Controller**|Duet36HC|
+|**SBC**|Raspbery Pi 4b|
 |**Firmware**|RRF3|
 |**Idler Mounts**|ALU Iddler Mounts for Magnums (MRW))|
 |**Idler Pulleys**|ALU Magnum Pulleys (MRW)|
