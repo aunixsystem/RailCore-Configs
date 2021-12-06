@@ -10,6 +10,7 @@ Purchased originally from a Printed Solid as a kit.
 |-----|-----|
 |**Controller**|Duet36HC|
 |**SBC**|Raspbery Pi 4b|
+|**Screen**|Paneldue 5i|
 |**Firmware**|RRF3|
 |**Idler Mounts**|ALU Halo for Magnums (713 Maker))|
 |**Idler Pulleys**|ALU Magnum Pulleys (MRW)|
@@ -43,6 +44,7 @@ Purchased from a private party, who purchased it as a kit from Filastruder.
 |-----|-----|
 |**Controller**|Duet36HC|
 |**SBC**|Raspbery Pi 4b|
+|**Screen**|None|
 |**Firmware**|RRF3|
 |**Idler Mounts**|ALU Iddler Mounts for Magnums (MRW))|
 |**Idler Pulleys**|ALU Magnum Pulleys (MRW)|
